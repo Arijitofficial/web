@@ -1,0 +1,5 @@
+div.input-section, div.input-section>input, div.input-section>span {
+  margin:1px;
+  padding: 5px;
+  border-radius: 6px;
+}
